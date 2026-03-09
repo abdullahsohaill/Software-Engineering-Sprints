@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android UI Testing</string>
+    <string name="back_button_text">BACK</string>
+    <string name="button_add_city">ADD CITY</string>
+    <string name="button_clear_all">CLEAR ALL</string>
+    <string name="hint_city_name">City Name</string>
+    <string name="button_confirm">CONFIRM</string>
+</resources>
